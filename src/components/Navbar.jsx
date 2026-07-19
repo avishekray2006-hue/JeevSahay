@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 
-const supportPhone = '9142341588';
+const supportPhone = '9522752780';
 
 const navItems = [
   { to: '/', label: 'Home' },

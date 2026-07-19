@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
-const supportPhone = '9142341588';
-const supportEmail = 'akshatgyan2004@gmail.com';
+const supportPhone = '9522752780';
+const supportEmail = 'avishekray2006@gmail.com';
 const cowBg =
   'https://images.pexels.com/photos/422218/pexels-photo-422218.jpeg?auto=compress&cs=tinysrgb&w=1200';
 

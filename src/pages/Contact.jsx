@@ -82,8 +82,8 @@ export function Contact() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState(null);
 
-  const supportEmail = 'akshatgyan2004@gmail.com';
-  const supportPhone = '9142341588';
+  const supportEmail = 'avishekray2006@gmail.com';
+  const supportPhone = '9522752780';
   const whatsappLink = `https://wa.me/91${supportPhone}`;
   const mailtoLink = `mailto:${supportEmail}`;
 
